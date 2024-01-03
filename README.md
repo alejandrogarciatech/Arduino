@@ -1,2 +1,2 @@
 # Arduino
- Pequeños proyectos para aprender a manejar Arduino
+ Pequeños proyectos para aprender a programar en Arduino
